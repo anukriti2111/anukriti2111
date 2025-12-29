@@ -1,4 +1,3 @@
-
 <h1 align="center">Anukriti Singh</h1>
 
 <p align="center">
