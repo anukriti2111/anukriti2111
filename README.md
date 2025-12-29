@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>MPS Data Science</strong> @ University at Buffalo (SUNY) · GPA 4.0<br/>
-  Data Scientist · Machine Learning · Deep Learning · NLP · Computer Vision
+  Data Scientist · Machine Learning Engineer
+
 </p>
 
 <p align="center">
