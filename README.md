@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="/images/ProfilePicture.jpg"
+       alt="Anukriti Singh"
+       width="180"
+       style="border-radius: 50%; margin-bottom: 20px;" />
+</p>
+
 <h1 align="center">Anukriti Singh</h1>
 
 <p align="center">
